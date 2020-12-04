@@ -1,16 +1,16 @@
 # app_base
 
-# EXAMEN JACKSENI
+# EXAMEN HUGO
 
 
 
 GitHub.
 
-# https://github.com/Jackseni/ExamenBDDAdmon
+# https://github.com/HugoEnamorado/Examen_1
 
 Heroku
 
-# https://examen1-jackseni.herokuapp.com/
+# https://examen1-hugo.herokuapp.com/
 
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
